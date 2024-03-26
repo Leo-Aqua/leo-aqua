@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![GitHub followers](https://img.shields.io/github/followers/Leo-Aqua)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/Leo-Aqua)
 <!--
 **Leo-Aqua/leo-aqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
