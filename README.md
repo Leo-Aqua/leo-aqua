@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with AutOsint<br>🌱 I’m currently learning C++<br>💬 Ask me about Python<br>⚡ Fun fact: 16 Years old
+🤝 I’m looking for help with AutOsint<br>🌱 I’m currently learning C++<br>💬 Ask me about Python<br>⚡ Fun fact: 17 Years old
 
 
 ## 🌐 Socials:
